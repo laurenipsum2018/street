@@ -1,5 +1,14 @@
 body {
-  background-color: #000000;
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  top: 20%;
+  left: 20%;
+  background: #2B5081;
+  background: -webkit-linear-gradient(to top, #2B5081, #804EA9, #FCB0B5);
+  background: linear-gradient(to top, #2B5081, #804EA9, #FCB0B5);
+  border-radius: 50%;
+  overflow: hidden;
 }
 
 /*# sourceMappingURL=style.css.map */
